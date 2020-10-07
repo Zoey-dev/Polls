@@ -1,0 +1,6 @@
+.env
+myVenV
+db.sqlite3
+__pycache__
+.idea
+.DS_Store
